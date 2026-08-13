@@ -1,0 +1,47 @@
+- the-qrcode-generator.com
+- SparkToro
+- Similarweb
+- quo/openphone
+- mint mobile
+- usestable.com (mailbox)
+- anytime mailbox
+- DSers
+- Spocket
+- Pipedrive
+- Snov.io
+- Apollo.io
+- Hunter.io
+- Clickup
+- Trello
+- Asana
+- Linear
+- Zapier
+- Make
+- N8N
+- Retool
+- Shopify
+- Relay
+- Dropbox
+- Attio
+- Todoist
+- Shimmer
+- dialpad
+- aircall
+- missive
+- notion
+- obsidian
+- affine
+- statista
+- Pilot
+- Puzzle
+- Xero
+- Quickbooks
+- Brex
+- Mercury
+- Stripe Atlas
+- Legalzoom
+
+Creative/Innovative
+
+- https://electronics.alibaba.com/buyingguides/how-to-make-nfc-amiibo-cards-a-practical-2026-guide
+-
