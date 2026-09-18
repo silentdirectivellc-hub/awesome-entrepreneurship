@@ -113,6 +113,7 @@
 - [Google Trends](https://trends.google.com) - Explore search interest for topics and products over time.
 - [Exploding Topics](https://explodingtopics.com) - Find products and topics trending before they peak.
 - [Pew Research Center](https://www.pewresearch.org) - Nonpartisan data on social, demographic, and business trends.
+- [FlipWorth](https://flipworth.silentdirectivellc.com/?utm_source=awesome-entrepreneurship&utm_medium=resource-directory) - Photo-based resale price research for secondhand sellers: snap an item and get an estimated resale range, a buy or pass verdict, a suggested list price and where to sell it. Free to try in the browser, also on iPhone.
 
 ### Communities
 
